@@ -7,3 +7,4 @@
 5. [ÖDEV 5](https://app.patika.dev/courses/sql/Odev5)'in cevapları assignment-5.sql dosyasındadır.
 6. [ÖDEV 6](https://app.patika.dev/courses/sql/Odev6)'nın cevapları assignment-6.sql dosyasındadır.
 7. [ÖDEV 7](https://app.patika.dev/courses/sql/Odev7)'nın cevapları assignment-7.sql dosyasındadır.
+8. [ÖDEV 8](https://app.patika.dev/courses/sql/Odev8)'nın cevapları assignment-8.sql dosyasındadır.
