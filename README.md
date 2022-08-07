@@ -9,3 +9,4 @@
 7. [ÖDEV 7](https://app.patika.dev/courses/sql/Odev7)'nın cevapları assignment-7.sql dosyasındadır.
 8. [ÖDEV 8](https://app.patika.dev/courses/sql/Odev8)'nın cevapları assignment-8.sql dosyasındadır.
 9. [ÖDEV 9](https://app.patika.dev/courses/sql/Odev9)'un cevapları assignment-9.sql dosyasındadır.
+10. [ÖDEV 10](https://app.patika.dev/courses/sql/Odev10)'un cevapları assignment-10.sql dosyasındadır.
