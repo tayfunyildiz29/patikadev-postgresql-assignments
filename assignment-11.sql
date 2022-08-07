@@ -1,4 +1,4 @@
--- PATİKA. DEV POSTGRESQL ÖDEV 10 - SQL KODLARI
+-- PATİKA. DEV POSTGRESQL ÖDEV 11 - SQL KODLARI
 --1. actor ve customer tablolarında bulunan first_name sütunları için tüm verileri sıralayalım.
 
 (SELECT first_name from actor ) UNION (SELECT first_name FROM customer); --OUTPUT: 647
